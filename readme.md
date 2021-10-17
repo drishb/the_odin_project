@@ -1,9 +1,14 @@
-﻿#THE ODIN PROJECT SUBMISSIONS
+THE ODIN PROJECT SUBMISSIONS
 
 1) THE RECIPE:
-	HERE USING HTML5, I HAVE CREATED A WEBPAGE FOR
-	ASIAN THEMED CUISINE LIKE INDIAN,CHINESE,JAPANESE CUISINE.
-	IT IS THE 1ST PROJECT SUBMISSION IN FOUNDATION COURSE.
+	
+	
+	
+	Here using html5, i have created a simple website which will consist of a main index page which will have 
+	links to a few recipes.
+	
+	ASIAN THEMED CUISINES LIKE INDIAN,CHINESE,JAPANESE CUISINE have been showcased here.
+	This is the first project in the foundation course provided by The Odin Project.
 	
 
 
